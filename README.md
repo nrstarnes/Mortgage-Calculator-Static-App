@@ -1,21 +1,22 @@
 # Mortgage Calculator React
 Mortgage Calculator as a component created in React
 
-![Sample Mortgage Calculator](docs/assets/sample_calculator.png)
+![Sample Mortgage Calculator](docs/assets/sample_calculator_2.png)
+![Sample Amortization Schedule](docs/assets/sample_calculator_3.png)
 
 ## Sample App
 You can try out the mortgage calculator. Run the following commands to start the sample app.
 
     // Install dependencies
-    npm install
+    Yarn 
     // Start sample app
-    npm start
+    Yarn Start
 
 Then open http://localhost:8080 in your browser. If port 8080 is already in-use, the dev server may start on a different port. Look for the following log output: "Project is running at" to determine the correct port.
 
 
-## Usage in Your App
-Install the calculator as an npm module.
+## Usage in Your App With NPM
+Install the calculator as an NPM module.
 
     npm install mortgage-calculator-react
 
